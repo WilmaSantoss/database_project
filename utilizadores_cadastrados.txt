@@ -1,0 +1,8 @@
+email: janedoe@admin.com
+senha: 12345
+
+email: gilbert@gmail.com
+senha: 12345
+
+email: wilma@gmail.com
+senha: 1234
